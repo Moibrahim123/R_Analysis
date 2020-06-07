@@ -19,20 +19,11 @@ Variables/coefficients that provided a non-random amount of variance to the mpg 
 - Spoiler Angle
 - Ground Clearance   
 
-<img align="left" width="250" src="/pics/mpg_vl_plot.png"><br/>  
-<img align="left" width="250" src="/pics/mpg_vw_plot.png"><br/>  
-<img align="left" width="250" src="/pics/mpg_sa_plot.png"><br/>  
-<br/>
-<br/>
-<br/>
-<br/>  
-<img align="left" width="250" src="/pics/mpg_gc_plot.png"><br/>  
-<img align="left" width="250" src="/pics/mpg_awd_plot.png"><br/>  
-<br/>
-<br/>
-<br/>
-<br/>
-<br/>  
+![](images/mpg_vl_plot.png)
+![](images/mpg_sa_plot.png)
+![](images/mpg_awd_plot.png)
+![](images/mpg_gc_plot.png)
+![](images/mpg_vw_plot.png)
 
 **AWD** has no significant linear relationship, the dependent value is determined by random chance and error. Therefore, the linear model is a flat line with a slope of 0.  
 
@@ -47,24 +38,15 @@ This linear model does **not** predict mpg of MechaCar prototypes effectively. A
   - Variance
   - Standard deviation  
   
-  ![](/pics/coil_summary_table.png)  
+![](images/coil_summary_table.png)
   
   The design specifications for the MechaCar suspension coils dictate that the variance of the suspension coils must not exceed 100 pounds per inch. Our **coil_summary_table** shows that the current manufacturing data meets this design specification with a variance of 62.29356. 
   
 ## Suspension Coil T-Test
 Using the same suspension coil data and the MechaCarChallenge.RScript file, We determined that the suspension coil’s pound-per-inch results are **not** statistically different from the mean population results of 1,500 pounds per inch. 
 
-<img align="left" width="400" src="/pics/PSI_population_table.png"><br/>  
-<img align="left" width="400" src="/pics/PSI_sample_table.png"><br/>
-<br/>
-<br/>
-<br/>
-<br/>  
-<br/>
-<br/>
-<br/>  
-<br/>
-<br/>  
+ ![](images/PSI_population_table.png)
+ ![](imagesPSI_sample_table.png)
 
 ## Design Our Own Study
 **We designed a study that compares the performance of the MechaCar prototype vehicle to other comparable vehicles on the market. A statistical study that can quantify how the MechaCar outperforms the competition. In our study design, we considered the following:**  
