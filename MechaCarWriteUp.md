@@ -46,6 +46,7 @@ This linear model does **not** predict mpg of MechaCar prototypes effectively. A
 Using the same suspension coil data and the MechaCarChallenge.RScript file, We determined that the suspension coil’s pound-per-inch results are **not** statistically different from the mean population results of 1,500 pounds per inch. 
 
  ![](images/PSI_population_table.png)
+ 
  ![](imagesPSI_sample_table.png)
 
 ## Design Our Own Study
